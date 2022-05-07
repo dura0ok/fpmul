@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TB_main_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TB_main" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="20.001 ns"></ZoomEndTime>
+      <Cursor1Time time="20.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="112"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/TB_main/a" type="array">
+      <obj_property name="ElementShortName">a[31:0]</obj_property>
+      <obj_property name="ObjectShortName">a[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_main/b" type="array">
+      <obj_property name="ElementShortName">b[31:0]</obj_property>
+      <obj_property name="ObjectShortName">b[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_main/result" type="array">
+      <obj_property name="ElementShortName">result[7:0]</obj_property>
+      <obj_property name="ObjectShortName">result[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_main/DUT/result" type="array">
+      <obj_property name="ElementShortName">result[7:0]</obj_property>
+      <obj_property name="ObjectShortName">result[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_main/DUT/exp1" type="array">
+      <obj_property name="ElementShortName">exp1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">exp1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_main/DUT/exp2" type="array">
+      <obj_property name="ElementShortName">exp2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">exp2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_main/DUT/new_exp" type="array">
+      <obj_property name="ElementShortName">new_exp[7:0]</obj_property>
+      <obj_property name="ObjectShortName">new_exp[7:0]</obj_property>
+   </wvobject>
+</wave_config>
